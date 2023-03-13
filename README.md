@@ -17,4 +17,4 @@ Portfolio
 * Add email function.
 
 ## App Link
-ttps://lemuelyu11.github.io/Portfolio/
+https://lemuelyu11.github.io/Portfolio/
